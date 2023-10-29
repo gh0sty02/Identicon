@@ -41,6 +41,6 @@ The terminal should give you a glorious
 :ok
 ```
 And you should have a shiny new file called `avatar.png`, which should lookl like this:
-![avatar identicon](./avatar.png)
+![avatar identicon](./banana.png)
 
 
